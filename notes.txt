@@ -3,3 +3,5 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv --version
 
 uv sync
+
+uv run app.py
